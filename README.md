@@ -28,9 +28,10 @@ A comprehensive Flutter-based billing application developed for Internet Service
 - Designed custom widgets for improved rendering performance
 
 ## UI/UX Design Approach
-- Implemented custom refresh indicator for enhanced UX 
-  (See [LinkedIn post](https://www.linkedin.com/posts/mahmoud-gamea-7537311a4_flutter-ui-mobiledevelopment-activity-7340297898510671872-sgb4) for implementation details)
-- Developed smooth animations and transitions for better user engagement
+- Enhanced user experience by creating custom refresh indicator[^1]
+- Implemented meaningful animations and transitions for improved engagement
+
+[^1]: View implementation details: [LinkedIn Post](https://www.linkedin.com/posts/mahmoud-gamea-7537311a4_flutter-ui-mobiledevelopment-activity-7340297898510671872-sgb4)
 
 ## Challenges & Solutions
 - **Challenge**: Real-time updates for invoice status and chat
