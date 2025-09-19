@@ -1,6 +1,6 @@
 # Mandoop ISP Service Management Application
 
-![App Preview](images/mandoop.png)
+![App Preview](mandoop.png)
 
 A comprehensive Flutter-based field service management solution for Internet Service Providers, featuring dual applications for administrators and field technicians with seamless workflow automation.
 
