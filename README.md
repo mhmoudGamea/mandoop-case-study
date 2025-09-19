@@ -29,7 +29,7 @@ A comprehensive Flutter-based billing application developed for Internet Service
 
 ## UI/UX Design Approach
 - Enhanced user experience by creating a custom refresh indicator 
-  [🔗 View my custom refresh indicator implementation on LinkedIn](https://bit.ly/3x7Yp9z)
+  [LinkedIn Post](http://bit.ly/41W7yd6) 
 - Enhanced user experience with meaningful animations and transitions
 
 ## Challenges & Solutions
